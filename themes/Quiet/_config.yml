@@ -70,7 +70,7 @@ dream:
   enable: true
   showTitle: true
   title: 说明
-  text: 此网站是JACK小桔子的VIP资源网站，我的博客：https://jackxjz.vercel.app/
+  text: 此网站是JACK小桔子的资源网站，我的博客：https://jackxjz.vercel.app/
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
