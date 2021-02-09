@@ -22,7 +22,7 @@ menu:
   Friends:
     url: /friends
     icon: fas fa-address-book
-  Blog:
+  我的博客:
     url: https://jackxjz.vercel.app/
     icon: fas fa-crown
   # 二级菜单写法如下
