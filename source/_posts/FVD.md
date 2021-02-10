@@ -8,10 +8,10 @@ top: false
 tags: 
  - 下载
  - 音乐
-summary: FVD Downloader是一款在线音乐视频下载的浏览器插件，我们可以利用它下载一些vip音乐。
+summary: FVD Downloader是一款在线音乐视频下载的浏览器插件，我们可以利用它下载一些vip音乐
 img: https://cdn.jsdelivr.net/gh/xjz3103/cdn@1.3/img/cover/blog1.jpg
 ---
-FVD Downloader是一款在线音乐视频下载的浏览器插件，我们可以利用它下载一些vip音乐。
+FVD Downloader是一款在线音乐视频下载的浏览器插件，我们可以利用它下载一些vip音乐
 
 ![img1](https://s1.ax1x.com/2020/06/19/NKTQYQ.png '@ JACK小桔子')
 
