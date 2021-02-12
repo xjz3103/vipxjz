@@ -4,7 +4,7 @@ author: JACK小桔子
 categories: 
  - Windows
 date: 2020-11-28 17:49:37
-top: false
+top: true
 tags: 
  - 软件
 summary: 2020年10月中旬，Adobe官方发布Adobe系列软件2021版本正式版，加入更多AI的功能，所有版本不再支持32位和Win10以前版本，对电脑的配置要求更高
