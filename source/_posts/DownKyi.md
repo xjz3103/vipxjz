@@ -28,7 +28,8 @@ img: /images/blog-cover/blog22.png
 * <font color = #bcbcbc>软件大小：</font><font color = #000000>21.6 MB</font>
 * <font color = #bcbcbc>文件格式：</font><font color = #000000>zip</font>
 * <font color = #bcbcbc>应用平台：</font><font color = #000000>Windows</font>
+* <font color = #bcbcbc>软件版本：</font><font color = #000000>1.3.3</font>
 
-<font color = #ff0000>直链下载：</font>[点我传送](https://vipxjz.vercel.app/resources/blog22/DownKyi-1.2.0 beta02.zip)
+<font color = #ff0000>直链下载：</font>[点我传送](https://vipxjz.vercel.app/resources/blog22/DownKyi_1.3.3.zip)
 
-<font color = #26a59a>蓝奏云盘：</font>[点我传送](https://xjz3103.lanzoux.com/iwX1mg3uc1c)
+<font color = #26a59a>蓝奏云盘：</font>[点我传送](https://xjz3103.lanzoui.com/iXqqyln0xhe)
