@@ -3,7 +3,7 @@ title: 迅雷11绿色精简版
 author: JACK小桔子
 categories: 
  - Windows
-date: 2021-01-22 09:21:15
+date: 2021-02-19 19:33:25
 top: false
 tags: 
  - 软件
@@ -32,13 +32,13 @@ ThunderX，迅雷使用先进的超线程技术基于网格原理，能够将存
     * 去菜单诊断工具,开机启动，去关于界面检查更新项。
 
 ### 下载地址
-* <font color = #bcbcbc>软件大小：</font><font color = #000000>53.9 MB</font>
+* <font color = #bcbcbc>软件大小：</font><font color = #000000>54.5 MB</font>
 * <font color = #bcbcbc>文件格式：</font><font color = #000000>exe</font>
 * <font color = #bcbcbc>应用平台：</font><font color = #000000>Windows</font>
-* <font color = #bcbcbc>文件版本：</font><font color = #000000>11.1.6.1242</font>
+* <font color = #bcbcbc>文件版本：</font><font color = #000000>11.1.8.1418</font>
 
-**百度云盘**：[点我传送](https://pan.baidu.com/s/1xmBQDA4gl1htGYPIahTUKw)  `提取码: 4exr`
+**百度云盘**：[点我传送](https://pan.baidu.com/s/1g0FUiJoo0NIoldFgza13NQ)  `提取码: t3p9`
 
-**蓝奏云盘**：[点我传送](https://xjz3103.lanzoux.com/ikOeLkocd3c)
+**蓝奏云盘**：[点我传送](https://xjz3103.lanzoui.com/iJEcnluya1g)
 
-**天翼云盘**：[点我传送](https://cloud.189.cn/t/a2IZVnE3uQzq)  `访问码: jfg1`
+**天翼云盘**：[点我传送](https://cloud.189.cn/t/fU32A3QFFrUv)  `访问码: 6ok9`
